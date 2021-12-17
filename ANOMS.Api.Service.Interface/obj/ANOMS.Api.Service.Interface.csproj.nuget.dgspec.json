@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Porosh_Developer\\source\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Porosh_Developer\\source\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
+        "projectName": "ANOMS.Api.Service.Interface",
+        "projectPath": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
+        "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Api.Service.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Porosh_Developer\\source\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj": {
+                "projectPath": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Porosh_Developer\\source\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj",
+        "projectName": "ANOMS.Domain.Entities",
+        "projectPath": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Porosh_Developer\\source\\ANOMS.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

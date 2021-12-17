@@ -1,0 +1,11 @@
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\bin\Debug\netcoreapp2.1\ANOMSAPI.deps.json
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\bin\Debug\netcoreapp2.1\ANOMSAPI.runtimeconfig.json
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\bin\Debug\netcoreapp2.1\ANOMSAPI.runtimeconfig.dev.json
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\bin\Debug\netcoreapp2.1\ANOMSAPI.dll
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.csprojAssemblyReference.cache
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.csproj.CoreCompileInputs.cache
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.RazorAssemblyInfo.cache
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.RazorAssemblyInfo.cs
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.AssemblyInfoInputs.cache
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.AssemblyInfo.cs
+C:\Users\Porosh_Developer\source\repos\ANOMSAPI\obj\Debug\netcoreapp2.1\ANOMSAPI.RazorTargetAssemblyInfo.cache

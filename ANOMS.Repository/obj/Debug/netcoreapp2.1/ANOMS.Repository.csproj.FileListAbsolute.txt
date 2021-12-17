@@ -1,0 +1,6 @@
+C:\Users\Porosh_Developer\source\ANOMS.Repository\bin\Debug\netcoreapp2.1\ANOMS.Repository.deps.json
+C:\Users\Porosh_Developer\source\ANOMS.Repository\bin\Debug\netcoreapp2.1\ANOMS.Repository.dll
+C:\Users\Porosh_Developer\source\ANOMS.Repository\obj\Debug\netcoreapp2.1\ANOMS.Repository.csprojAssemblyReference.cache
+C:\Users\Porosh_Developer\source\ANOMS.Repository\obj\Debug\netcoreapp2.1\ANOMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Porosh_Developer\source\ANOMS.Repository\obj\Debug\netcoreapp2.1\ANOMS.Repository.AssemblyInfoInputs.cache
+C:\Users\Porosh_Developer\source\ANOMS.Repository\obj\Debug\netcoreapp2.1\ANOMS.Repository.AssemblyInfo.cs

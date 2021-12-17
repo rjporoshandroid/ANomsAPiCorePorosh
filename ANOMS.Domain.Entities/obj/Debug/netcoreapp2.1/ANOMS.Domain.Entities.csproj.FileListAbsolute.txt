@@ -1,0 +1,6 @@
+C:\Users\Porosh_Developer\source\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.deps.json
+C:\Users\Porosh_Developer\source\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.dll
+C:\Users\Porosh_Developer\source\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.csprojAssemblyReference.cache
+C:\Users\Porosh_Developer\source\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Porosh_Developer\source\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\Porosh_Developer\source\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.AssemblyInfo.cs
