@@ -1,0 +1,10 @@
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\bin\Debug\netcoreapp2.1\ANOMS.Service.deps.json
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\bin\Debug\netcoreapp2.1\ANOMS.Service.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\bin\Debug\netcoreapp2.1\ANOMS.Service.pdb
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.AssemblyInfoInputs.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.AssemblyInfo.cs
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.csproj.CoreCompileInputs.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.pdb
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Service\obj\Debug\netcoreapp2.1\ANOMS.Service.csproj.AssemblyReference.cache

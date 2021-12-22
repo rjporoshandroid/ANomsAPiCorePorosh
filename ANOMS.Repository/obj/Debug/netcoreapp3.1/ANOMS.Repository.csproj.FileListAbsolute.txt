@@ -1,0 +1,13 @@
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\bin\Debug\netcoreapp3.1\ANOMS.Repository.deps.json
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\bin\Debug\netcoreapp3.1\ANOMS.Repository.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\bin\Debug\netcoreapp3.1\ANOMS.Repository.pdb
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\bin\Debug\netcoreapp3.1\ANOMS.Repository.Interface.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\bin\Debug\netcoreapp3.1\ANOMS.Repository.Interface.pdb
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.csproj.AssemblyReference.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.AssemblyInfoInputs.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.AssemblyInfo.cs
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.csproj.CopyComplete
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Repository\obj\Debug\netcoreapp3.1\ANOMS.Repository.pdb

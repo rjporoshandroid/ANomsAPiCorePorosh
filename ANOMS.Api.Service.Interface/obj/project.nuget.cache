@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCJmCN9K3gFuc9Mo4LjeI8vORVPAgMPSjbKPmfWUIbbu/7dNBCKfUUvkA/aTFCX/cWeS1k7FAJlOOZA7Q/GOhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

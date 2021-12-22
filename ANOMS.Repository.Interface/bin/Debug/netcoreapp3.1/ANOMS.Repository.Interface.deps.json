@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ANOMS.Repository.Interface/1.0.0": {
+        "runtime": {
+          "ANOMS.Repository.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ANOMS.Repository.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp3.1\ANOMS.Domain.Entities.deps.json
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp3.1\ANOMS.Domain.Entities.runtimeconfig.json
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp3.1\ANOMS.Domain.Entities.runtimeconfig.dev.json
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp3.1\ANOMS.Domain.Entities.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp3.1\ANOMS.Domain.Entities.pdb
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.AssemblyInfo.cs
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.dll
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.pdb
+C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp3.1\ANOMS.Domain.Entities.genruntimeconfig.cache
