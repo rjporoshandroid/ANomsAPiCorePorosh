@@ -689,7 +689,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\": {}
+    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -700,6 +701,9 @@
       "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -16,6 +16,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using Swashbuckle.Swagger;
 
 namespace ANOMSAPI
 {
@@ -35,7 +36,7 @@ namespace ANOMSAPI
             //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.Configure<ConnectionString>(Configuration.GetSection("ConnectionStrings"));
 
-
+            services.AddMvcCore().AddApiExplorer();
             services.AddDbContext<Context>(options => options.UseSqlServer(Configuration.GetConnectionString("MsSqlConnection")));
 
             services.AddCors(options =>
@@ -80,8 +81,12 @@ namespace ANOMSAPI
                     ValidateAudience = false
                 };
             });
-            services.AddSwaggerGen();
-          //  services.AddControllers().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+            // Register the Swagger generator, defining one or more Swagger documents
+            services.AddSwaggerGen(c =>
+            {
+               // c.SwaggerDoc("v1", new Info { title = "My API", Version = "v1" });
+            });
+            //  services.AddControllers().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
             //services.AddTransient<IContentPanelRepository, ContentPanelRepository>();
             //services.AddTransient<IContentPanelService, ContentPannelService>();
 
@@ -101,17 +106,18 @@ namespace ANOMSAPI
             }
 
             app.UseSwagger();
-            //app.UseSwaggerUI(c =>
-            //{
-            //    c.SwaggerEndpoint("/swagger/v1/swagger.json", "My ANOMS API");
-            //});
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My ANOMS API");
+            });
 
             app.UseCors(MyAllowSpecificOrigins);
             app.UseAuthentication();
 
             app.UseHttpsRedirection();
             //app.UseRouting();
-            //app.UseEndpoints(endpoints => {
+            //app.UseEndpoints(endpoints =>
+            //{
             //    endpoints.MapDefaultControllerRoute();
             //    endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
             //});

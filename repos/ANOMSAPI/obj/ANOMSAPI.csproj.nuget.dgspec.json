@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -144,6 +147,9 @@
         "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -201,6 +207,9 @@
         "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -282,6 +291,9 @@
         "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -339,6 +351,9 @@
         "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\repos\\ANOMSAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -379,6 +394,10 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.6, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -426,6 +445,10 @@
               "target": "Package",
               "version": "[2.1.10, )"
             },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -433,6 +456,10 @@
             "Swashbuckle.AspNetCore.SwaggerGen": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
