@@ -689,23 +689,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Porosh_Developer\\.nuget\\packages\\": {},
+    "C:\\Users\\AMSO06\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\ANOMS.Service.csproj",
+      "projectUniqueName": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\ANOMS.Service.csproj",
       "projectName": "ANOMS.Service",
-      "projectPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\ANOMS.Service.csproj",
-      "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\obj\\",
+      "projectPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\ANOMS.Service.csproj",
+      "packagesPath": "C:\\Users\\AMSO06\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AMSO06\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

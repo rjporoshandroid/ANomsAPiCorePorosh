@@ -8,3 +8,13 @@ C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface
 C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.dll
 C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.pdb
 C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.csproj.AssemblyReference.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\bin\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.deps.json
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\bin\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.dll
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\bin\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.pdb
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.csproj.AssemblyReference.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.AssemblyInfoInputs.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.AssemblyInfo.cs
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.csproj.CoreCompileInputs.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.dll
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Api.Service.Interface\obj\Debug\netcoreapp2.1\ANOMS.Api.Service.Interface.pdb

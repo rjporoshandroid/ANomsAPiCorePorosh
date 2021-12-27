@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj": {}
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj": {
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
         "projectName": "ANOMS.Api.Service.Interface",
-        "projectPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
-        "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\obj\\",
+        "projectPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\ANOMS.Api.Service.Interface.csproj",
+        "packagesPath": "C:\\Users\\AMSO06\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Api.Service.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AMSO06\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

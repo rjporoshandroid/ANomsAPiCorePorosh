@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj": {}
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj": {
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj",
         "projectName": "ANOMS.Domain.Entities",
-        "projectPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj",
-        "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\obj\\",
+        "projectPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\ANOMS.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\AMSO06\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Domain.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AMSO06\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

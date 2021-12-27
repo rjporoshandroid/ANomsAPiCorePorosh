@@ -17,3 +17,16 @@ C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\D
 C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.dll
 C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.pdb
 C:\Users\Porosh_Developer\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.genruntimeconfig.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.deps.json
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.runtimeconfig.json
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.runtimeconfig.dev.json
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.dll
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\bin\Debug\netcoreapp2.1\ANOMS.Domain.Entities.pdb
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.csproj.AssemblyReference.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.AssemblyInfo.cs
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.dll
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.pdb
+C:\Users\AMSO06\Desktop\ANomsAPiCorePorosh\ANOMS.Domain.Entities\obj\Debug\netcoreapp2.1\ANOMS.Domain.Entities.genruntimeconfig.cache

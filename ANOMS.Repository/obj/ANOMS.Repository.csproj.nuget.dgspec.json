@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj": {}
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj": {
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj",
         "projectName": "ANOMS.Repository.Interface",
-        "projectPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj",
-        "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\obj\\",
+        "projectPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj",
+        "packagesPath": "C:\\Users\\AMSO06\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AMSO06\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,20 +64,20 @@
         }
       }
     },
-    "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj": {
+    "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj",
         "projectName": "ANOMS.Repository",
-        "projectPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj",
-        "packagesPath": "C:\\Users\\Porosh_Developer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\obj\\",
+        "projectPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\ANOMS.Repository.csproj",
+        "packagesPath": "C:\\Users\\AMSO06\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Porosh_Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AMSO06\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,8 +91,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj": {
-                "projectPath": "C:\\Users\\Porosh_Developer\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj"
+              "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj": {
+                "projectPath": "C:\\Users\\AMSO06\\Desktop\\ANomsAPiCorePorosh\\ANOMS.Repository.Interface\\ANOMS.Repository.Interface.csproj"
               }
             }
           }
